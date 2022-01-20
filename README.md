@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mark-lee-coder
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning java and python
-- 💞️ I’m looking to collaborate on any java or python projects
+- 🌱 I’m currently learning java, python and javascript
+- 💞️ I’m looking to collaborate on any java, javascript or python projects
 - 📫 How to reach me leonwahungu@gmail.com
 
 <!---
