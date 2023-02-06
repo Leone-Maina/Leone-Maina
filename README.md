@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mark-lee-coder
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning java, kotlin and javascript
-- 💞️ I’m looking to collaborate on any java, javascript or kotlin projects
+- 🌱 I’m currently learning java, kotlin and flutter framework
+- 💞️ I’m looking to collaborate on any java, kotlin and flutter based projects
 - 📫 How to reach me leonwahungu@gmail.com
 
 <!---
