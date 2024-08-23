@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Mark-lee-coder
+- 👋 Hi, I’m Leon Maina
 - 👀 I’m interested in software development
 - 🌱 I’m profficient in java, kotlin and frontend web development technologies
 - 💞️ I’m looking to collaborate on any java, kotlin and javascript based projects
-- 📫 How to reach me leonwahungu@gmail.com
+- 📫 How to reach me www.linkedin.com/in/leon-maina
 
 <!---
 Mark-lee-coder/Mark-lee-coder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
