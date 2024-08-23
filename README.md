@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Leon Maina
+- 👋 Hi, I’m @Leone-Maina
 - 👀 I’m interested in software development
 - 🌱 I’m profficient in java, kotlin and frontend web development technologies
 - 💞️ I’m looking to collaborate on any java, kotlin and javascript based projects
