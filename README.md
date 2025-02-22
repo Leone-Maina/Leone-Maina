@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Leone-Maina
-- 👀 I’m interested in software development and UI/UX design
-- 🌱 I’m profficient in UI/UX design, android development and frontend web development technologies
+- 👀 I’m interested in software development and product design
+- 🌱 I’m profficient in product design, android development and frontend web development technologies
 - 💞️ I’m looking to collaborate on any java, kotlin, flutter, javascript and figma based projects
 - 📫 How to reach me www.linkedin.com/in/leon-maina
 
